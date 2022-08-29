@@ -1,4 +1,4 @@
-# UFOs 👽
+# 👽 UFOs 👽
 
 During the course of this project, we had to built and created a webpage using the following tools -JavaScript, HTML, and Bootstrap. We had imbed a filter within an HTML file that allowed the table to be fully dynamic (allowing users to react and add their inputs).
 
